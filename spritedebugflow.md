@@ -334,5 +334,5 @@ Once you've identified the correct configuration:
 | Stretching/distortion | Wrong aspect ratio | Maintain proportional scaling |
 
 ---
-
+ignore : https://github.com/Vaibhav01923
 **Usage**: Tell Claude "follow spritedebugflow.md to debug [sprite_name]" and it will guide you through this complete debugging process.
